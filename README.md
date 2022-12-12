@@ -16,7 +16,7 @@
   
   [https://github.com/IsmaelQR/WebPage.git](https://github.com/IsmaelQR/WebPage.git)
   
-  Por ahora no hay datos en el programa desplegado pero aca dejo  unas referencias de como se vería:
+  Por ahora no hay datos en el programa desplegado con mysql, pero aca dejo  unas referencias de como se vería:
   ![image](https://user-images.githubusercontent.com/97975949/206976044-799512af-a2e8-434d-a980-65350a0dbacb.png)
 
   
